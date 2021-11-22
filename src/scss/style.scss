@@ -1,0 +1,28 @@
+body {
+  background: #2c3e50;
+  margin: 0;
+  padding: 30px;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+a {
+  color: #ccc;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #fff;
+
+  .box {
+    background-color: #fff;
+    color: #2c3e50;
+    box-shadow: 5px 10px 20px rgba(0,0,0,0.25);
+    padding: 20px;
+    margin-top: 10px;
+  }
+}
